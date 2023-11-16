@@ -1,0 +1,33 @@
+.isActiveOption {
+
+    /* width: 100%; */
+    border-bottom: 3px solid #4d4b4b;
+    border-radius: 5px;
+    animation: 1s ease-out 0s 1 slideInFromLeft;
+}
+
+@keyframes slideInFromLeft {
+    0% {
+        transform: translateX(-100%);
+        opacity: 0;
+    }
+
+    100% {
+        transform: translateX(0);
+        opacity: 1;
+    }
+}
+
+.nav-link {
+    text-decoration: none; /* Quitamos el subrayado predeterminado */
+    
+  }
+  
+  .underline {
+    border-bottom: 2px solid #4BA6C9; /* Estilo del subrayado */
+    animation: 1s ease-out 0s 1 slideInFromLeft;
+  }
+  .active{
+    color: #4BA6C9;
+    /* animation-duration: 1s !important; ; */
+  }

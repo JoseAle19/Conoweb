@@ -1,0 +1,41 @@
+.inputfile {
+    width: 0.1px;
+    height: 0.1px;
+    opacity: 0;
+    overflow: hidden;
+    position: absolute;
+    z-index: -1;
+}
+
+
+.texto-vertical {
+    writing-mode: vertical-lr;
+    transform: rotate(180deg);
+}
+
+
+
+/* Estilos para el boton de subir imagen */
+
+/* 
+.inputfile {
+    width: 0.1px;
+    height: 0.1px;
+    opacity: 0;
+    overflow: hidden;
+    position: absolute;
+    z-index:-1;
+}
+.inputfile+label {
+    width: 100%;
+    height: 100%;
+    color: black;
+    background-color: rgb(252, 252, 252);
+    display: inline-block;
+    border-radius: 20px;
+    z-index: 20;
+}
+
+.inputfile+label:hover{
+    cursor: pointer;
+} */

@@ -1,0 +1,59 @@
+{
+    "status": true,
+    "message": "Order found",
+    "count_orders": 2,
+    "orders": [
+      {
+        "id": 109,
+        "date_order": "2023-11-07T13:12:43.000Z",
+        "status_order": "pending",
+        "number_order": "uuid()",
+        "note_client": "Pasare lo antes posible al recoger el pedido",
+        "discounts": 0,
+        "id_client": 63,
+        "total": 72,
+        "products": [
+          {
+            "description": "helados con sabor a dulces ICEE",
+            "image": "https://res.cloudinary.com/db4d1c7ht/image/upload/v1699332344/m9mzbmju05iv1q8yjh13.jpg",
+            "quantity_bought": 6,
+            "price": 12,
+            "price_per_quantity": 72
+          }
+        ]
+      },
+      {
+        "id": 110,
+        "date_order": "2023-11-07T13:13:49.000Z",
+        "status_order": "pending",
+        "number_order": "uuid()",
+        "note_client": "Que los producto no esten maltratados o rotos, todo en buen estado",
+        "discounts": 0,
+        "id_client": 63,
+        "total": 52,
+        "products": [
+          {
+            "description": "Con gasitos de marinela",
+            "image": "https://res.cloudinary.com/db4d1c7ht/image/upload/v1699332444/j1jve9gcdgkecruu7mnm.jpg",
+            "quantity_bought": 1,
+            "price": 20,
+            "price_per_quantity": 20
+          },
+          {
+            "description": "helados con sabor a dulces ICEE",
+            "image": "https://res.cloudinary.com/db4d1c7ht/image/upload/v1699332344/m9mzbmju05iv1q8yjh13.jpg",
+            "quantity_bought": 1,
+            "price": 12,
+            "price_per_quantity": 12
+          },
+          {
+            "description": "Helado sabor limon",
+            "image": "https://res.cloudinary.com/db4d1c7ht/image/upload/v1698988232/a97o6ugrun4agvuwqhyu.jpg",
+            "quantity_bought": 1,
+            "price": 20,
+            "price_per_quantity": 20
+          }
+        ]
+      }
+    ]
+  }

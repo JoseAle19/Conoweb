@@ -1,0 +1,34 @@
+{
+    "units":[
+        {
+            "id":1,
+            "name":"Cajas",
+            "symbol":"Cjs",
+            "description":"Cajas"
+        },
+        {
+            "id":2,
+            "name":"Kilogramos",
+            "symbol":"Kg",
+            "description":"Kilogramos"
+        },
+        {
+            "id":3,
+            "name":"Litros",
+            "symbol":"Lts",
+            "description":"Litros"
+        },
+        {
+            "id":4,
+            "name":"Metros",
+            "symbol":"Mts",
+            "description":"Metros"
+        },
+        {
+            "id":5,
+            "name":"Unidades",
+            "symbol":"Und",
+            "description":"Unidades"
+        }
+    ]
+}

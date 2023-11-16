@@ -1,0 +1,58 @@
+{
+  "status": true,
+  "message": "Lista de productos",
+  "products": [
+      {
+          "product_name": "Colorante para helado",
+          "product_description": "Colorante para helado, sabor limon",
+          "product_quantity": 10,
+          "product_image": "https://res.cloudinary.com/db4d1c7ht/image/upload/v1697694579/as9vdqwhomxvnuhbsvwb.png",
+          "product_unit": "Cajas",
+          "product_price": 40,
+          "category_name": "toppins",
+          "supplier_name": "Juan",
+          "supplier_contact_name": "juanito",
+          "supplier_phone": "9631687546",
+          "supplier_company_name": "Conos de Mexico"
+      },
+      {
+          "product_name": "sadasd",
+          "product_description": "sad",
+          "product_quantity": 212,
+          "product_image": "",
+          "product_unit": "Unidades",
+          "product_price": 211212,
+          "category_name": "Conos",
+          "supplier_name": "Juan",
+          "supplier_contact_name": "juanito",
+          "supplier_phone": "9631687546",
+          "supplier_company_name": "Conos de Mexico"
+      },
+      {
+          "product_name": "Cono de helado ",
+          "product_description": "\"Un delicioso Cono de Helado sabor Cajeta, perfecto para satisfacer tus antojos de helado. Se vende ",
+          "product_quantity": 10,
+          "product_image": "",
+          "product_unit": "Kg",
+          "product_price": 20,
+          "category_name": "Conos",
+          "supplier_name": "Pedro",
+          "supplier_contact_name": "pedrito",
+          "supplier_phone": "9631687546",
+          "supplier_company_name": "Todo para conos"
+      },
+      {
+          "product_name": "helado sabor fresa",
+          "product_description": "\"Helado de Fresa: $40 por litro. ¡Disfruta de la frescura y dulzura de la fresa en cada sorbo!\"",
+          "product_quantity": 34,
+          "product_image": "https://res.cloudinary.com/db4d1c7ht/image/upload/v1697696063/gntdtoazlrmkac7czhnn.png",
+          "product_unit": "Litros",
+          "product_price": 40,
+          "category_name": "Endulzantes",
+          "supplier_name": "Juan",
+          "supplier_contact_name": "juanito",
+          "supplier_phone": "9631687546",
+          "supplier_company_name": "Conos de Mexico"
+      }
+  ]
+}
